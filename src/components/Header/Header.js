@@ -7,13 +7,13 @@ function Header() {
             <nav>
                 <ul>
                     <li>
-                        <a href="#">Sobre nós</a>
+                        Sobre nós
                     </li>
                     <li>
-                        <a href="#">Serviços</a>
+                        Serviços
                     </li>
                     <li>
-                        <a href="#">Contatos</a>
+                        Contatos
                     </li>
                 </ul>
             </nav>
