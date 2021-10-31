@@ -1,0 +1,11 @@
+#rodape {
+    background: rgb(200, 200, 200);
+    text-align: center;
+    height: 40px;
+    padding-top: 5px;
+    border: 1px solid grey;
+}
+
+h2 {
+    margin: 0;
+}
